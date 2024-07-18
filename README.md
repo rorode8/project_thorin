@@ -11,7 +11,7 @@ It creates two workflows:
 
 Definition: [.github/workflows/ci.yaml](./.github/workflows/ci.yaml)
 
-This workflow runs on every commit to `main` branch, and on every PR targeting the `main` branch.
+This workflow runs on every commit to `main` branch, and on every PR targeting the `main` branch..
 
 It will use rust stable on linux, with cache between different executions, those commands:
 
